@@ -32,9 +32,9 @@ Este proyecto está desarrollado con las siguientes tecnologías y herramientas 
 
 ![5 Base de datos Exploits2](https://user-images.githubusercontent.com/111579223/209457884-f7fa5324-b9e8-4daa-a4bc-0fe306b5181c.png)
 
+![6 Alta Exploits](https://user-images.githubusercontent.com/111579223/209488540-d6ed2dba-760b-4aef-990f-4e00c8b2dd1b.png)
 
-
-
+![7 Modificación Exploits](https://user-images.githubusercontent.com/111579223/209488549-2f5bcd55-14cd-4de9-a897-bde1fcc597e0.png)
 
 
 
