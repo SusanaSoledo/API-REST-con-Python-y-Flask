@@ -20,7 +20,7 @@ Este proyecto está desarrollado con las siguientes tecnologías y herramientas 
 - ![Flask-logo] (https://img.icons8.com/ios/512/flask.png) Flask
 - ![MySQL-logo] (https://img.icons8.com/color/512/mysql-logo.png) MySQL
 
-##Página principal
+###Página principal
 
 ![1 Inicio](https://user-images.githubusercontent.com/111579223/209457840-0a5d3f67-52ad-4e6b-8966-d0ffe29aee19.png)
 
