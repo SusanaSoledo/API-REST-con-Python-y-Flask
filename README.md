@@ -17,9 +17,9 @@ Este proyecto está desarrollado con las siguientes tecnologías y herramientas 
 - ![css-logo](https://img.icons8.com/color/25/000000/css3.png) CSS3
 - ![js-logo](https://img.icons8.com/color/25/000000/javascript--v1.png) JavaScript
 - ![git-logo](https://img.icons8.com/color/25/000000/git.png) Control de versiones con GIT
-- ![Bootstrap - logo](https://camo.githubusercontent.com/0fc0368ecf0d533dd0915d74a60eb4790afa7c5e9e2abcb03591061f6a5673ab/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32352f3030303030302f626f6f7473747261702e706e67)
-- ![Flask-logo](https://img.icons8.com/ios/512/flask.png) Flask
-- ![MySQL-logo](https://img.icons8.com/color/512/mysql-logo.png) MySQL
+- ![Bootstrap-logo](https://camo.githubusercontent.com/0fc0368ecf0d533dd0915d74a60eb4790afa7c5e9e2abcb03591061f6a5673ab/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32352f3030303030302f626f6f7473747261702e706e67) Bootstrap
+- ![Flask-logo] (https://img.icons8.com/ios/512/flask.png) Flask
+- ![MySQL-logo] (https://img.icons8.com/color/512/mysql-logo.png) MySQL
 
 ![1 Inicio](https://user-images.githubusercontent.com/111579223/209457840-0a5d3f67-52ad-4e6b-8966-d0ffe29aee19.png)
 
